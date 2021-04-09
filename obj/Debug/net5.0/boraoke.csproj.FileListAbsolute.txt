@@ -1,0 +1,16 @@
+E:\Application\BoraOke\bin\Debug\net5.0\boraoke.exe
+E:\Application\BoraOke\bin\Debug\net5.0\boraoke.deps.json
+E:\Application\BoraOke\bin\Debug\net5.0\boraoke.runtimeconfig.json
+E:\Application\BoraOke\bin\Debug\net5.0\boraoke.runtimeconfig.dev.json
+E:\Application\BoraOke\bin\Debug\net5.0\boraoke.dll
+E:\Application\BoraOke\bin\Debug\net5.0\ref\boraoke.dll
+E:\Application\BoraOke\bin\Debug\net5.0\boraoke.pdb
+E:\Application\BoraOke\obj\Debug\net5.0\boraoke.csprojAssemblyReference.cache
+E:\Application\BoraOke\obj\Debug\net5.0\boraoke.GeneratedMSBuildEditorConfig.editorconfig
+E:\Application\BoraOke\obj\Debug\net5.0\boraoke.AssemblyInfoInputs.cache
+E:\Application\BoraOke\obj\Debug\net5.0\boraoke.AssemblyInfo.cs
+E:\Application\BoraOke\obj\Debug\net5.0\boraoke.csproj.CoreCompileInputs.cache
+E:\Application\BoraOke\obj\Debug\net5.0\boraoke.dll
+E:\Application\BoraOke\obj\Debug\net5.0\ref\boraoke.dll
+E:\Application\BoraOke\obj\Debug\net5.0\boraoke.pdb
+E:\Application\BoraOke\obj\Debug\net5.0\boraoke.genruntimeconfig.cache
